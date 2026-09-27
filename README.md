@@ -1,5 +1,5 @@
 This repository contains some of the examples in which we can make the use of C Language. The problems are classified into 12 different ways which
-helped me understand how we can write a code in C language. It also contains 2 projects that helped me understand the way we can make the C programs.
+helped me understand how we can write a code in C language. It also contains 3 projects that helped me understand the way we can make the C programs.
 
 Chapter 1: Printing a Statement
 Demonstrates how to display a message on the screen in C.
@@ -54,6 +54,9 @@ A variation of the classic Rock-Paper-Scissors game.
 Chapter 11: Dynamic Memory Allocation
 malloc(), calloc(), realloc(), and free() functions.
 Managing dynamically allocated memory.
+
+Project 3 - ATM Machine
+This is a kind of ATM Simulator that shows the working of the ATM
 
 Problem Sets: Each chapter contains problem sets which gave me a better understanding and helped me to practice coding. The problem sets include 
 various challenges and exercises relevant to the chapter's content.
